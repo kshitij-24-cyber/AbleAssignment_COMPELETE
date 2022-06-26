@@ -5,4 +5,5 @@ Features -  Progress section gives us real-time status of progress of the syncin
 
 Teck stack :
 Backend - java , springboot 
+
 andriod app - java 
